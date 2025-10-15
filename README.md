@@ -1,4 +1,4 @@
-# corriculo-html
+# curriculo-html
 Currículo Online - Lucas Fernando Dias e Silva
 Este é o currículo online de Lucas Fernando Dias e Silva, estudante de Tecnologia da Informação na UNIBH. Este projeto tem como objetivo apresentar informações pessoais, formação acadêmica, habilidades técnicas, idiomas e formas de contato de maneira simples e visualmente agradável.
 
